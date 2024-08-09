@@ -1,0 +1,47 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;}
+
+body {
+   background-image: url(https://i.pinimg.com/564x/16/c8/b5/16c8b5710027382a8426a48b77e20063.jpg)
+}
+
+p {
+    color: lightgrey;
+    font-size: 20px;
+
+} 
+
+header {
+    font-size: 30px;
+    color: palevioletred;
+}
+
+img {
+    width: 300px; height: auto;
+}
+
+.minititulo {
+    color:blanchedalmond;
+    font-size: 25px;
+}
+
+#piedepag {
+    font-size: 15px;
+    color: pink;
+
+}
+
+.nombre {
+    color: palevioletred;
+}
+
+.Competencias {
+    color: palevioletred;
+}
+
+#parrafo-especial {
+    color: blueviolet;
+    font-size: 28px;
+    font-weight: bold;
+}
